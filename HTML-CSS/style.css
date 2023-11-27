@@ -1,0 +1,17 @@
+/* seletor
+tag name
+class="name"   (we can use class in any of the field and many times. class has more priority than tag)
+(. use to reprent class)
+(id represented by #)
+id has more priority than class so first come id then class then tag.
+
+*/
+.para1
+
+{
+  color:red;
+
+}
+p{
+  color:blue;
+}

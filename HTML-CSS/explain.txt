@@ -1,0 +1,14 @@
+ CSS - Cascading Style Sheet
+
+ property:value;
+
+ color:red;
+ height:200px;
+background-color:green;
+
+
+inline CSS way
+internal css way
+external css way
+
+kanhoot.it

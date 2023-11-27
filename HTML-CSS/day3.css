@@ -1,0 +1,13 @@
+.para1{
+    color: red;
+    font-size: 30px;
+}
+.one{
+    background-color:blue;
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    padding: 50px;
+    border: 20px solid black;
+    margin: 60px;
+}
